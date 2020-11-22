@@ -1,2 +1,2 @@
 # WebD
-Test repo for web development course
+Test repo for web development course by Amritesh
